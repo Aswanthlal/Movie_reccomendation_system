@@ -5,6 +5,6 @@ where I completed IBM Data science course on edX.
 
 Projects focuses on devoloping a movie reccomendation system using both 
 
-Collaborative and 
+Collaborative filtering and 
 
 Content based filtering 
