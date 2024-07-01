@@ -11,9 +11,9 @@ import matplotlib.pyplot as plt
 #loading dataset
 
 #Storing the movie information into a pandas dataframe
-movies_df=pd.read_csv('E:\\datascience\\ed_x\\ed_x_project_and_lab\\csv\\movies.csv')
+movies_df=pd.read_csv('movies.csv')
 #Storing the user information into a pandas dataframe
-ratings_df=pd.read_csv('E:\\datascience\\ed_x\\ed_x_project_and_lab\\csv\\ratings.csv')
+ratings_df=pd.read_csv('ratings.csv')
 movies_df.head()
 
 
